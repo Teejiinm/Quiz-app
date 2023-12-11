@@ -29,7 +29,7 @@ A simple and interactive quiz app built with Python, tkinter.
 
 <img width="597" alt="Screen Shot 2023-12-09 at 9 46 44 PM" src="https://github.com/Teejiinm/Quiz-maker/assets/144406268/77defb60-7152-4576-924c-03b52f8e7c4c">
 <img width="597" alt="Screen Shot 2023-12-09 at 9 47 06 PM" src="https://github.com/Teejiinm/Quiz-maker/assets/144406268/0fc9ba91-2a56-486b-bb9d-5e42000e1952"><br>
-If answered wrong, it shows "incorrect" in red color.
+If answered wrong, it shows "incorrect" in red color. After clicking a chosen button, button will be disabled. Disabled button makes the answer is not replaced.
 
 <img width="597" alt="Screen Shot 2023-12-09 at 9 47 43 PM" src="https://github.com/Teejiinm/Quiz-maker/assets/144406268/1fa4f98e-fa62-418d-80ba-79732806b4db"><br>
 
